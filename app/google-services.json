@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "686609043207",
+    "project_id": "abhinavyadav-a2068",
+    "storage_bucket": "abhinavyadav-a2068.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686609043207:android:100c5b3266e8f39ad5ffa2",
+        "android_client_info": {
+          "package_name": "com.example.abhinavyadav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686609043207-6bneof3j8gcdv8khej2mphdublo5ti0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEXAB0O3E8uSc9I2fLYXO2kcaTM7iorqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686609043207-6bneof3j8gcdv8khej2mphdublo5ti0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
